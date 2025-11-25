@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Project accounts related local API"
   contactDetails:
     name: "Prod - Product Owner"
-    email: "prod@sample.com"
+    email: "{cipher}c8fbec80ffe39ef83ae4edd72711b7aabb6e82a3a9558b776b978d546450504c0a8d2d9711c8035c8b17ae1375c46e03"
   onCallSupport:
     - (1234) 888-2828
     - (1234) 555-2828
