@@ -2,11 +2,11 @@ build:
   version: 3.0.0
 
 loans:
-  message: "Welcome to Project loans related local API"
+  message: "Welcome to Project loans related prod API"
   contactDetails:
     name: "Prod - Product Owner"
     email: "prod@sample.com"
   onCallSupport:
-    - (1234) 888-2828
-    - (1234) 555-2828
+    - (2828) 888-2828
+    - (2828) 555-2828
 
