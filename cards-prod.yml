@@ -2,10 +2,10 @@ build:
   version: 3.0.0
 
 cards:
-  message: "Welcome to EazyBank cards related local API"
+  message: "Welcome to Project cards related local API"
   contactDetails:
     name: "Prod - Product Owner"
-    email: "prod@eazybank.com"
+    email: "prod@sample.com"
   onCallSupport:
     - (1234) 888-2828
     - (1234) 555-2828
