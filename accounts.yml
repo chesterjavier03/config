@@ -1,0 +1,12 @@
+build:
+  version: 3.0.0
+
+accounts:
+  message: "Welcome to EazyBank accounts related local API"
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "john.doe@eazybank.com"
+  onCallSupport:
+    - (1234) 888-2828
+    - (1234) 555-2828
+

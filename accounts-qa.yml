@@ -1,0 +1,12 @@
+build:
+  version: 2.0.0
+
+accounts:
+  message: "Welcome to EazyBank accounts related local API"
+  contactDetails:
+    name: "QA Acc - QA Lead"
+    email: "qaacc@eazybank.com"
+  onCallSupport:
+    - (1234) 888-2828
+    - (1234) 555-2828
+
