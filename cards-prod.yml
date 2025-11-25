@@ -2,7 +2,7 @@ build:
   version: 3.0.0
 
 cards:
-  message: "Welcome to Project cards related prod API"
+  message: "Welcome to Project cards related production API"
   contactDetails:
     name: "Prod - Product Owner"
     email: "prod@sample.com"
