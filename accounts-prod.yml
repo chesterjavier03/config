@@ -2,7 +2,7 @@ build:
   version: 3.0.0
 
 accounts:
-  message: "Welcome to Project accounts related WEBHOOK PROD API"
+  message: "Welcome to Project accounts related WEBHOOK PRODuction API"
   contactDetails:
     name: "Prod - Product Owner"
     email: "{cipher}0862f4a292b835d6bffb5ecf189fec5a6c6bfa4b67de3e71b1db67df9dee1420"
