@@ -2,7 +2,7 @@ build:
   version: 3.0.0
 
 accounts:
-  message: "Welcome to Project accounts related docker API"
+  message: "Welcome to Project accounts related DOCKER API"
   contactDetails:
     name: "John Doe - Developer"
     email: "john.doe@sample123.com"
